@@ -1,5 +1,6 @@
 # HelloWorld
 ## This is a HelloWorld Android Project.
+## 这是一个HelloWorld Android项目，并且验证了生命周期。
 ## 步骤：先打开Android Studio，创建一个新项目，一直next就创建成功。
 ## 验证activity的生命周期
 ## 先在MainActivity.java中添加以下代码：
@@ -55,6 +56,5 @@
 ## (3)程序退出时出现以下结果：
 ![](https://github.com/dj-jun/HelloWorld/blob/master/images/2.png)
 ![](https://github.com/dj-jun/HelloWorld/blob/master/images/4.png)
-
 ### 运行结果截图：
 ![](https://github.com/dj-jun/HelloWorld/blob/master/images/5.png)
